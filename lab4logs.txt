@@ -1,0 +1,207 @@
+Measurements:
+Duty cycle: 0, Average Voltage Photocell: 0.000000 
+Duty cycle: 1, Average Voltage Photocell: 0.003922 
+Duty cycle: 2, Average Voltage Photocell: 0.090196 
+Duty cycle: 3, Average Voltage Photocell: 0.180392 
+Duty cycle: 4, Average Voltage Photocell: 0.329412 
+Duty cycle: 5, Average Voltage Photocell: 0.403922 
+Duty cycle: 6, Average Voltage Photocell: 0.357843 
+Duty cycle: 7, Average Voltage Photocell: 0.470588 
+Duty cycle: 8, Average Voltage Photocell: 0.698039 
+Duty cycle: 9, Average Voltage Photocell: 0.521569 
+Duty cycle: 10, Average Voltage Photocell: 0.592157 
+Duty cycle: 11, Average Voltage Photocell: 0.870588 
+Duty cycle: 12, Average Voltage Photocell: 0.799020 
+Duty cycle: 13, Average Voltage Photocell: 0.887255 
+Duty cycle: 14, Average Voltage Photocell: 0.838235 
+Duty cycle: 15, Average Voltage Photocell: 0.985294 
+Duty cycle: 16, Average Voltage Photocell: 0.988235 
+Duty cycle: 17, Average Voltage Photocell: 1.368627 
+Duty cycle: 18, Average Voltage Photocell: 1.211765 
+Duty cycle: 19, Average Voltage Photocell: 1.172549 
+Duty cycle: 20, Average Voltage Photocell: 1.490196 
+Duty cycle: 21, Average Voltage Photocell: 1.063725 
+Duty cycle: 22, Average Voltage Photocell: 1.254902 
+Duty cycle: 23, Average Voltage Photocell: 1.454902 
+Duty cycle: 24, Average Voltage Photocell: 1.941176 
+Duty cycle: 25, Average Voltage Photocell: 1.602941 
+Duty cycle: 26, Average Voltage Photocell: 1.631373 
+Duty cycle: 27, Average Voltage Photocell: 2.309804 
+Duty cycle: 28, Average Voltage Photocell: 1.419608 
+Duty cycle: 29, Average Voltage Photocell: 1.894118 
+Duty cycle: 30, Average Voltage Photocell: 1.768627 
+Duty cycle: 31, Average Voltage Photocell: 1.946078 
+Duty cycle: 32, Average Voltage Photocell: 1.696078 
+Duty cycle: 33, Average Voltage Photocell: 2.000000 
+Duty cycle: 34, Average Voltage Photocell: 1.906863 
+Duty cycle: 35, Average Voltage Photocell: 1.968627 
+Duty cycle: 36, Average Voltage Photocell: 2.266667 
+Duty cycle: 37, Average Voltage Photocell: 1.985294 
+Duty cycle: 38, Average Voltage Photocell: 2.321569 
+Duty cycle: 39, Average Voltage Photocell: 2.015686 
+Duty cycle: 40, Average Voltage Photocell: 2.583333 
+Duty cycle: 41, Average Voltage Photocell: 2.137255 
+Duty cycle: 42, Average Voltage Photocell: 3.137255 
+Duty cycle: 43, Average Voltage Photocell: 2.086275 
+Duty cycle: 44, Average Voltage Photocell: 2.603922 
+Duty cycle: 45, Average Voltage Photocell: 2.670588 
+Duty cycle: 46, Average Voltage Photocell: 2.384314 
+Duty cycle: 47, Average Voltage Photocell: 2.700980 
+Duty cycle: 48, Average Voltage Photocell: 2.458824 
+Duty cycle: 49, Average Voltage Photocell: 2.796078 
+Duty cycle: 50, Average Voltage Photocell: 2.643137 
+Duty cycle: 51, Average Voltage Photocell: 3.436275 
+Duty cycle: 52, Average Voltage Photocell: 2.338235 
+Duty cycle: 53, Average Voltage Photocell: 2.916667 
+Duty cycle: 54, Average Voltage Photocell: 2.647059 
+Duty cycle: 55, Average Voltage Photocell: 3.490196 
+Duty cycle: 56, Average Voltage Photocell: 2.741176 
+Duty cycle: 57, Average Voltage Photocell: 3.176471 
+Duty cycle: 58, Average Voltage Photocell: 3.117647 
+Duty cycle: 59, Average Voltage Photocell: 3.058824 
+Duty cycle: 60, Average Voltage Photocell: 3.462745 
+Duty cycle: 61, Average Voltage Photocell: 3.235294 
+Duty cycle: 62, Average Voltage Photocell: 3.058824 
+Duty cycle: 63, Average Voltage Photocell: 3.545098 
+Duty cycle: 64, Average Voltage Photocell: 2.901961 
+Duty cycle: 65, Average Voltage Photocell: 3.400000 
+Duty cycle: 66, Average Voltage Photocell: 3.294118 
+Duty cycle: 67, Average Voltage Photocell: 3.450980 
+Duty cycle: 68, Average Voltage Photocell: 3.356863 
+Duty cycle: 69, Average Voltage Photocell: 3.176471 
+Duty cycle: 70, Average Voltage Photocell: 3.740196 
+Duty cycle: 71, Average Voltage Photocell: 3.600000 
+Duty cycle: 72, Average Voltage Photocell: 3.760784 
+Duty cycle: 73, Average Voltage Photocell: 3.831373 
+Duty cycle: 74, Average Voltage Photocell: 3.403922 
+Duty cycle: 75, Average Voltage Photocell: 3.419608 
+Duty cycle: 76, Average Voltage Photocell: 3.811765 
+Duty cycle: 77, Average Voltage Photocell: 3.807843 
+Duty cycle: 78, Average Voltage Photocell: 3.678431 
+Duty cycle: 79, Average Voltage Photocell: 4.117647 
+Duty cycle: 80, Average Voltage Photocell: 3.600000 
+Duty cycle: 81, Average Voltage Photocell: 3.745098 
+Duty cycle: 82, Average Voltage Photocell: 4.066667 
+Duty cycle: 83, Average Voltage Photocell: 4.107843 
+Duty cycle: 84, Average Voltage Photocell: 3.627451 
+Duty cycle: 85, Average Voltage Photocell: 4.034314 
+Duty cycle: 86, Average Voltage Photocell: 3.800000 
+Duty cycle: 87, Average Voltage Photocell: 4.109804 
+Duty cycle: 88, Average Voltage Photocell: 4.102941 
+Duty cycle: 89, Average Voltage Photocell: 4.113725 
+Duty cycle: 90, Average Voltage Photocell: 4.191176 
+Duty cycle: 91, Average Voltage Photocell: 4.284314 
+Duty cycle: 92, Average Voltage Photocell: 4.266667 
+Duty cycle: 93, Average Voltage Photocell: 4.250000 
+Duty cycle: 94, Average Voltage Photocell: 4.309804 
+Duty cycle: 95, Average Voltage Photocell: 4.282353 
+Duty cycle: 96, Average Voltage Photocell: 4.352941 
+Duty cycle: 97, Average Voltage Photocell: 4.384314 
+Duty cycle: 98, Average Voltage Photocell: 4.368627 
+Duty cycle: 99, Average Voltage Photocell: 4.407843 
+Calculations:
+Photocell voltage: 5 * Arduino_reading/255
+Photocell Current: (5 - Photocell_vol)/1000 Ohm
+Photocell Resistance: Photocell_vol/Photocell_current
+LED Current: (5 - LED_voltage)/1000 Ohm
+LED Resistance: LED_voltage/LED_current
+Photocell Voltage: 0.000000, Photocell current: 5.000000, Photocell Resistance: 0.000000, LED Current: 5.000000, LED Resistance: 0.000000
+Photocell Voltage: 0.003922, Photocell current: 4.996078, Photocell Resistance: 0.000785, LED Current: 4.950000, LED Resistance: 0.010101
+Photocell Voltage: 0.090196, Photocell current: 4.909804, Photocell Resistance: 0.018371, LED Current: 4.900000, LED Resistance: 0.020408
+Photocell Voltage: 0.180392, Photocell current: 4.819608, Photocell Resistance: 0.037429, LED Current: 4.850000, LED Resistance: 0.030928
+Photocell Voltage: 0.329412, Photocell current: 4.670588, Photocell Resistance: 0.070529, LED Current: 4.800000, LED Resistance: 0.041667
+Photocell Voltage: 0.403922, Photocell current: 4.596078, Photocell Resistance: 0.087884, LED Current: 4.750000, LED Resistance: 0.052632
+Photocell Voltage: 0.357843, Photocell current: 4.642157, Photocell Resistance: 0.077086, LED Current: 4.700000, LED Resistance: 0.063830
+Photocell Voltage: 0.470588, Photocell current: 4.529412, Photocell Resistance: 0.103896, LED Current: 4.650000, LED Resistance: 0.075269
+Photocell Voltage: 0.698039, Photocell current: 4.301961, Photocell Resistance: 0.162261, LED Current: 4.600000, LED Resistance: 0.086957
+Photocell Voltage: 0.521569, Photocell current: 4.478431, Photocell Resistance: 0.116462, LED Current: 4.550000, LED Resistance: 0.098901
+Photocell Voltage: 0.592157, Photocell current: 4.407843, Photocell Resistance: 0.134342, LED Current: 4.500000, LED Resistance: 0.111111
+Photocell Voltage: 0.870588, Photocell current: 4.129412, Photocell Resistance: 0.210826, LED Current: 4.450000, LED Resistance: 0.123596
+Photocell Voltage: 0.799020, Photocell current: 4.200980, Photocell Resistance: 0.190198, LED Current: 4.400000, LED Resistance: 0.136364
+Photocell Voltage: 0.887255, Photocell current: 4.112745, Photocell Resistance: 0.215733, LED Current: 4.350000, LED Resistance: 0.149425
+Photocell Voltage: 0.838235, Photocell current: 4.161765, Photocell Resistance: 0.201413, LED Current: 4.300000, LED Resistance: 0.162791
+Photocell Voltage: 0.985294, Photocell current: 4.014706, Photocell Resistance: 0.245421, LED Current: 4.250000, LED Resistance: 0.176471
+Photocell Voltage: 0.988235, Photocell current: 4.011765, Photocell Resistance: 0.246334, LED Current: 4.200000, LED Resistance: 0.190476
+Photocell Voltage: 1.368627, Photocell current: 3.631373, Photocell Resistance: 0.376890, LED Current: 4.150000, LED Resistance: 0.204819
+Photocell Voltage: 1.211765, Photocell current: 3.788235, Photocell Resistance: 0.319876, LED Current: 4.100000, LED Resistance: 0.219512
+Photocell Voltage: 1.172549, Photocell current: 3.827451, Photocell Resistance: 0.306352, LED Current: 4.050000, LED Resistance: 0.234568
+Photocell Voltage: 1.490196, Photocell current: 3.509804, Photocell Resistance: 0.424581, LED Current: 4.000000, LED Resistance: 0.250000
+Photocell Voltage: 1.063725, Photocell current: 3.936275, Photocell Resistance: 0.270237, LED Current: 3.950000, LED Resistance: 0.265823
+Photocell Voltage: 1.254902, Photocell current: 3.745098, Photocell Resistance: 0.335079, LED Current: 3.900000, LED Resistance: 0.282051
+Photocell Voltage: 1.454902, Photocell current: 3.545098, Photocell Resistance: 0.410398, LED Current: 3.850000, LED Resistance: 0.298701
+Photocell Voltage: 1.941176, Photocell current: 3.058824, Photocell Resistance: 0.634615, LED Current: 3.800000, LED Resistance: 0.315789
+Photocell Voltage: 1.602941, Photocell current: 3.397059, Photocell Resistance: 0.471861, LED Current: 3.750000, LED Resistance: 0.333333
+Photocell Voltage: 1.631373, Photocell current: 3.368627, Photocell Resistance: 0.484284, LED Current: 3.700000, LED Resistance: 0.351351
+Photocell Voltage: 2.309804, Photocell current: 2.690196, Photocell Resistance: 0.858601, LED Current: 3.650000, LED Resistance: 0.369863
+Photocell Voltage: 1.419608, Photocell current: 3.580392, Photocell Resistance: 0.396495, LED Current: 3.600000, LED Resistance: 0.388889
+Photocell Voltage: 1.894118, Photocell current: 3.105882, Photocell Resistance: 0.609848, LED Current: 3.550000, LED Resistance: 0.408451
+Photocell Voltage: 1.768627, Photocell current: 3.231373, Photocell Resistance: 0.547330, LED Current: 3.500000, LED Resistance: 0.428571
+Photocell Voltage: 1.946078, Photocell current: 3.053922, Photocell Resistance: 0.637239, LED Current: 3.450000, LED Resistance: 0.449275
+Photocell Voltage: 1.696078, Photocell current: 3.303922, Photocell Resistance: 0.513353, LED Current: 3.400000, LED Resistance: 0.470588
+Photocell Voltage: 2.000000, Photocell current: 3.000000, Photocell Resistance: 0.666667, LED Current: 3.350000, LED Resistance: 0.492537
+Photocell Voltage: 1.906863, Photocell current: 3.093137, Photocell Resistance: 0.616482, LED Current: 3.300000, LED Resistance: 0.515152
+Photocell Voltage: 1.968627, Photocell current: 3.031373, Photocell Resistance: 0.649418, LED Current: 3.250000, LED Resistance: 0.538462
+Photocell Voltage: 2.266667, Photocell current: 2.733333, Photocell Resistance: 0.829268, LED Current: 3.200000, LED Resistance: 0.562500
+Photocell Voltage: 1.985294, Photocell current: 3.014706, Photocell Resistance: 0.658537, LED Current: 3.150000, LED Resistance: 0.587302
+Photocell Voltage: 2.321569, Photocell current: 2.678431, Photocell Resistance: 0.866764, LED Current: 3.100000, LED Resistance: 0.612903
+Photocell Voltage: 2.015686, Photocell current: 2.984314, Photocell Resistance: 0.675427, LED Current: 3.050000, LED Resistance: 0.639344
+Photocell Voltage: 2.583333, Photocell current: 2.416667, Photocell Resistance: 1.068966, LED Current: 3.000000, LED Resistance: 0.666667
+Photocell Voltage: 2.137255, Photocell current: 2.862745, Photocell Resistance: 0.746575, LED Current: 2.950000, LED Resistance: 0.694915
+Photocell Voltage: 3.137255, Photocell current: 1.862745, Photocell Resistance: 1.684211, LED Current: 2.900000, LED Resistance: 0.724138
+Photocell Voltage: 2.086275, Photocell current: 2.913725, Photocell Resistance: 0.716016, LED Current: 2.850000, LED Resistance: 0.754386
+Photocell Voltage: 2.603922, Photocell current: 2.396078, Photocell Resistance: 1.086743, LED Current: 2.800000, LED Resistance: 0.785714
+Photocell Voltage: 2.670588, Photocell current: 2.329412, Photocell Resistance: 1.146465, LED Current: 2.750000, LED Resistance: 0.818182
+Photocell Voltage: 2.384314, Photocell current: 2.615686, Photocell Resistance: 0.911544, LED Current: 2.700000, LED Resistance: 0.851852
+Photocell Voltage: 2.700980, Photocell current: 2.299020, Photocell Resistance: 1.174840, LED Current: 2.650000, LED Resistance: 0.886792
+Photocell Voltage: 2.458824, Photocell current: 2.541176, Photocell Resistance: 0.967593, LED Current: 2.600000, LED Resistance: 0.923077
+Photocell Voltage: 2.796078, Photocell current: 2.203922, Photocell Resistance: 1.268683, LED Current: 2.550000, LED Resistance: 0.960784
+Photocell Voltage: 2.643137, Photocell current: 2.356863, Photocell Resistance: 1.121464, LED Current: 2.500000, LED Resistance: 1.000000
+Photocell Voltage: 3.436275, Photocell current: 1.563725, Photocell Resistance: 2.197492, LED Current: 2.450000, LED Resistance: 1.040816
+Photocell Voltage: 2.338235, Photocell current: 2.661765, Photocell Resistance: 0.878453, LED Current: 2.400000, LED Resistance: 1.083333
+Photocell Voltage: 2.916667, Photocell current: 2.083333, Photocell Resistance: 1.400000, LED Current: 2.350000, LED Resistance: 1.127660
+Photocell Voltage: 2.647059, Photocell current: 2.352941, Photocell Resistance: 1.125000, LED Current: 2.300000, LED Resistance: 1.173913
+Photocell Voltage: 3.490196, Photocell current: 1.509804, Photocell Resistance: 2.311688, LED Current: 2.250000, LED Resistance: 1.222222
+Photocell Voltage: 2.741176, Photocell current: 2.258824, Photocell Resistance: 1.213542, LED Current: 2.200000, LED Resistance: 1.272727
+Photocell Voltage: 3.176471, Photocell current: 1.823529, Photocell Resistance: 1.741935, LED Current: 2.150000, LED Resistance: 1.325581
+Photocell Voltage: 3.117647, Photocell current: 1.882353, Photocell Resistance: 1.656250, LED Current: 2.100000, LED Resistance: 1.380952
+Photocell Voltage: 3.058824, Photocell current: 1.941176, Photocell Resistance: 1.575758, LED Current: 2.050000, LED Resistance: 1.439024
+Photocell Voltage: 3.462745, Photocell current: 1.537255, Photocell Resistance: 2.252551, LED Current: 2.000000, LED Resistance: 1.500000
+Photocell Voltage: 3.235294, Photocell current: 1.764706, Photocell Resistance: 1.833333, LED Current: 1.950000, LED Resistance: 1.564103
+Photocell Voltage: 3.058824, Photocell current: 1.941176, Photocell Resistance: 1.575758, LED Current: 1.900000, LED Resistance: 1.631579
+Photocell Voltage: 3.545098, Photocell current: 1.454902, Photocell Resistance: 2.436658, LED Current: 1.850000, LED Resistance: 1.702703
+Photocell Voltage: 2.901961, Photocell current: 2.098039, Photocell Resistance: 1.383178, LED Current: 1.800000, LED Resistance: 1.777778
+Photocell Voltage: 3.400000, Photocell current: 1.600000, Photocell Resistance: 2.125000, LED Current: 1.750000, LED Resistance: 1.857143
+Photocell Voltage: 3.294118, Photocell current: 1.705882, Photocell Resistance: 1.931034, LED Current: 1.700000, LED Resistance: 1.941176
+Photocell Voltage: 3.450980, Photocell current: 1.549020, Photocell Resistance: 2.227848, LED Current: 1.650000, LED Resistance: 2.030303
+Photocell Voltage: 3.356863, Photocell current: 1.643137, Photocell Resistance: 2.042959, LED Current: 1.600000, LED Resistance: 2.125000
+Photocell Voltage: 3.176471, Photocell current: 1.823529, Photocell Resistance: 1.741935, LED Current: 1.550000, LED Resistance: 2.225806
+Photocell Voltage: 3.740196, Photocell current: 1.259804, Photocell Resistance: 2.968872, LED Current: 1.500000, LED Resistance: 2.333333
+Photocell Voltage: 3.600000, Photocell current: 1.400000, Photocell Resistance: 2.571429, LED Current: 1.450000, LED Resistance: 2.448276
+Photocell Voltage: 3.760784, Photocell current: 1.239216, Photocell Resistance: 3.034810, LED Current: 1.400000, LED Resistance: 2.571429
+Photocell Voltage: 3.831373, Photocell current: 1.168627, Photocell Resistance: 3.278523, LED Current: 1.350000, LED Resistance: 2.703704
+Photocell Voltage: 3.403922, Photocell current: 1.596078, Photocell Resistance: 2.132678, LED Current: 1.300000, LED Resistance: 2.846154
+Photocell Voltage: 3.419608, Photocell current: 1.580392, Photocell Resistance: 2.163772, LED Current: 1.250000, LED Resistance: 3.000000
+Photocell Voltage: 3.811765, Photocell current: 1.188235, Photocell Resistance: 3.207921, LED Current: 1.200000, LED Resistance: 3.166667
+Photocell Voltage: 3.807843, Photocell current: 1.192157, Photocell Resistance: 3.194079, LED Current: 1.150000, LED Resistance: 3.347826
+Photocell Voltage: 3.678431, Photocell current: 1.321569, Photocell Resistance: 2.783383, LED Current: 1.100000, LED Resistance: 3.545455
+Photocell Voltage: 4.117647, Photocell current: 0.882353, Photocell Resistance: 4.666667, LED Current: 1.050000, LED Resistance: 3.761905
+Photocell Voltage: 3.600000, Photocell current: 1.400000, Photocell Resistance: 2.571429, LED Current: 1.000000, LED Resistance: 4.000000
+Photocell Voltage: 3.745098, Photocell current: 1.254902, Photocell Resistance: 2.984375, LED Current: 0.950000, LED Resistance: 4.263158
+Photocell Voltage: 4.066667, Photocell current: 0.933333, Photocell Resistance: 4.357143, LED Current: 0.900000, LED Resistance: 4.555556
+Photocell Voltage: 4.107843, Photocell current: 0.892157, Photocell Resistance: 4.604396, LED Current: 0.850000, LED Resistance: 4.882353
+Photocell Voltage: 3.627451, Photocell current: 1.372549, Photocell Resistance: 2.642857, LED Current: 0.800000, LED Resistance: 5.250000
+Photocell Voltage: 4.034314, Photocell current: 0.965686, Photocell Resistance: 4.177665, LED Current: 0.750000, LED Resistance: 5.666667
+Photocell Voltage: 3.800000, Photocell current: 1.200000, Photocell Resistance: 3.166667, LED Current: 0.700000, LED Resistance: 6.142857
+Photocell Voltage: 4.109804, Photocell current: 0.890196, Photocell Resistance: 4.616740, LED Current: 0.650000, LED Resistance: 6.692308
+Photocell Voltage: 4.102941, Photocell current: 0.897059, Photocell Resistance: 4.573770, LED Current: 0.600000, LED Resistance: 7.333333
+Photocell Voltage: 4.113725, Photocell current: 0.886275, Photocell Resistance: 4.641593, LED Current: 0.550000, LED Resistance: 8.090909
+Photocell Voltage: 4.191176, Photocell current: 0.808824, Photocell Resistance: 5.181818, LED Current: 0.500000, LED Resistance: 9.000000
+Photocell Voltage: 4.284314, Photocell current: 0.715686, Photocell Resistance: 5.986301, LED Current: 0.450000, LED Resistance: 10.111111
+Photocell Voltage: 4.266667, Photocell current: 0.733333, Photocell Resistance: 5.818182, LED Current: 0.400000, LED Resistance: 11.500000
+Photocell Voltage: 4.250000, Photocell current: 0.750000, Photocell Resistance: 5.666667, LED Current: 0.350000, LED Resistance: 13.285714
+Photocell Voltage: 4.309804, Photocell current: 0.690196, Photocell Resistance: 6.244318, LED Current: 0.300000, LED Resistance: 15.666667
+Photocell Voltage: 4.282353, Photocell current: 0.717647, Photocell Resistance: 5.967213, LED Current: 0.250000, LED Resistance: 19.000000
+Photocell Voltage: 4.352941, Photocell current: 0.647059, Photocell Resistance: 6.727273, LED Current: 0.200000, LED Resistance: 24.000000
+Photocell Voltage: 4.384314, Photocell current: 0.615686, Photocell Resistance: 7.121019, LED Current: 0.150000, LED Resistance: 32.333333
+Photocell Voltage: 4.368627, Photocell current: 0.631373, Photocell Resistance: 6.919255, LED Current: 0.100000, LED Resistance: 49.000000
+Photocell Voltage: 4.407843, Photocell current: 0.592157, Photocell Resistance: 7.443709, LED Current: 0.050000, LED Resistance: 99.000000
